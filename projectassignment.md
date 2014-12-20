@@ -1,4 +1,4 @@
-# Project Assignment Report for Coursera Practical Machine Learning
+#== Project Assignment Report for Coursera Practical Machine Learning
 #R version 3.0.2 (2013-09-25) -- "Frisbee Sailing"
 #Platform: x86_64-w64-mingw32/x64 (64-bit)
 
